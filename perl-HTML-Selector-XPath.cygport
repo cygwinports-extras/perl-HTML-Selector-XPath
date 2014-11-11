@@ -1,0 +1,12 @@
+CPAN_AUTHOR=corion
+inherit perl
+
+NAME="perl-HTML-Selector-XPath"
+VERSION=0.18
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl CSS Selector to XPath compiler module"
+DESCRIPTION="HTML::Selector::XPath is a utility function to compile full set of
+CSS2 and partial CSS3 selectors to the equivalent XPath expression."
+
+ARCH=noarch
